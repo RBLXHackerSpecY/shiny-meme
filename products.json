@@ -1,0 +1,134 @@
+[
+  {
+    "id": "p1",
+    "name": "Oversized Cotton Tee",
+    "price": 1899,
+    "oldPrice": 2199,
+    "category": "Clothing",
+    "badge": "Popular",
+    "image": "https://i.pinimg.com/1200x/e2/59/39/e25939501ca82f0f7bc2543a453837e8.jpg",
+    "description": "Relaxed everyday tee with a clean oversized fit.",
+    "colors": [
+      "Black",
+      "White",
+      "Grey"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "p2",
+    "name": "Minimal Table Lamp",
+    "price": 2499,
+    "oldPrice": 2999,
+    "category": "Decor",
+    "badge": "Sale",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=700&q=85",
+    "description": "A warm, minimal lamp for desks and bedside tables.",
+    "colors": [
+      "Black",
+      "White"
+    ],
+    "sizes": []
+  },
+  {
+    "id": "p3",
+    "name": "Canvas Shoulder Bag",
+    "price": 2299,
+    "oldPrice": null,
+    "category": "Accessories",
+    "badge": "",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=700&q=85",
+    "description": "Simple canvas carry-all for everyday use.",
+    "colors": [
+      "Cream",
+      "Black"
+    ],
+    "sizes": []
+  },
+  {
+    "id": "p4",
+    "name": "Ceramic Wave Vase",
+    "price": 1599,
+    "oldPrice": null,
+    "category": "Decor",
+    "badge": "New",
+    "image": "https://images.unsplash.com/photo-1612196808214-b8e1d6145a8c?auto=format&fit=crop&w=700&q=85",
+    "description": "Sculptural ceramic vase that works with or without flowers.",
+    "colors": [
+      "Sand",
+      "White"
+    ],
+    "sizes": []
+  },
+  {
+    "id": "p5",
+    "name": "Relaxed Zip Hoodie",
+    "price": 3299,
+    "oldPrice": 3799,
+    "category": "Clothing",
+    "badge": "Popular",
+    "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?auto=format&fit=crop&w=700&q=85",
+    "description": "Heavy-feel relaxed hoodie for cooler evenings.",
+    "colors": [
+      "Charcoal",
+      "Cream"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": "p6",
+    "name": "Desk Organizer",
+    "price": 1199,
+    "oldPrice": null,
+    "category": "Desk",
+    "badge": "",
+    "image": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?auto=format&fit=crop&w=700&q=85",
+    "description": "Keep small essentials tidy without cluttering your desk.",
+    "colors": [
+      "Black",
+      "Natural"
+    ],
+    "sizes": []
+  },
+  {
+    "id": "p7",
+    "name": "Everyday Cap",
+    "price": 999,
+    "oldPrice": null,
+    "category": "Accessories",
+    "badge": "New",
+    "image": "https://images.unsplash.com/photo-1521369909029-2afed882baee?auto=format&fit=crop&w=700&q=85",
+    "description": "Unstructured cotton cap with an adjustable back.",
+    "colors": [
+      "Black",
+      "Olive",
+      "Cream"
+    ],
+    "sizes": []
+  },
+  {
+    "id": "p8",
+    "name": "Soft Throw Blanket",
+    "price": 2799,
+    "oldPrice": 3199,
+    "category": "Home",
+    "badge": "Sale",
+    "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=700&q=85",
+    "description": "Soft textured throw for sofas, beds and reading corners.",
+    "colors": [
+      "Beige",
+      "Grey"
+    ],
+    "sizes": []
+  }
+]
